@@ -1,0 +1,101 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    background-color:gray;
+    padding-right: 80px;
+}
+.main{
+    display: flex;
+}
+.container1{
+    width: 678px;
+    height: 550px;
+    padding:10px 50px 120px 00px
+}
+.container2 {
+    height: 678px;
+    width: 875px;
+    background-image: url("background.avif");
+    background-size:cover;
+    color: white;
+}
+.centered {
+    position: absolute;
+    top: 47%;
+    left: 64%;
+    transform: translate(6%, -559%);
+}
+#btn{
+    background-color: blue;
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+    width: 80px;
+}
+#button{
+    width: 90px;
+    height: 40px;
+    justify-content: center;
+    margin-top: 0;
+    margin-right: 15px;
+}
+.e{
+    margin-left: 150px;
+    margin-top: -30.5px;
+}
+.foot{
+    background: black;
+    width:728px;
+    color: white;
+    display: flex;
+    height: 140px;
+    padding:20px 
+}
+.n{
+    margin-left: 150px;
+}
+.k{
+    background-color: yellow;
+    width: 150px;
+    height: 40px;
+    padding: 10px;
+}
+.football{
+    height:50px;
+    width:100px;
+    position:absolute;
+    top:50%;
+    color:chocolate;
+    margin-left: -300px;
+}
+.whatsapp{
+    height:50px;
+    width:100px;
+   
+    font-size:30%;
+    margin:150px 00px 00px 250px;
+}
+.facebook{
+    height:50px;
+    width:100px;
+    margin:180px 00px 00px 200px;
+}
+.linkedin{
+    height:150px;
+    width:150px;
+    margin: -300px 0px 00px 750px
+}
+.twitter{
+    height:150px;
+    width:150px;
+    margin: 100px 0px 00px 800px
+
+}
+#searchBox{
+    height:20px ;
+    width:300px;
+    padding:10px 80px 10px 80px;
+    margin:20px 00px 00px 350px;
+    border:2px solid black
+}
